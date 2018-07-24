@@ -1,0 +1,8 @@
+{
+  "name": "cordova-open-mative-settings-doozer",
+  "version": "1.0.0",
+  "description": "Allows acces to native settings pages.",
+  "main": "settings.js",
+  "author": "Robert Hohn",
+  "license": "MIT"
+}
